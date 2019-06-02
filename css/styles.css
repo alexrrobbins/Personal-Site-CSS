@@ -26,15 +26,11 @@ h3 {
 }
 
 .middle-container {
-  background-color: blue;
-  width: 200px;
-  height: 200px;
+  background-color: #8186d5;
 }
 
 .bottom-container {
-  background-color: red;
-  width: 200px;
-  height: 200px;
+  background-color: #c6cbef;
 }
 
 .cloud1 {
@@ -53,4 +49,7 @@ h3 {
 .mountain {
   width: 100%;
   margin-top: 100px;
+}
+.profile-pic {
+  height: 200px;
 }
